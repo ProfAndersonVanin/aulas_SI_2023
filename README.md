@@ -7,4 +7,4 @@ https://forms.gle/aL2ppXYy98AasEzn8
 
 - ATENÇÃO:
 
-Para as aulas dos dias 27/02 e 02/03: fazer a leitura da norma NBR ISO/IEC 17799 até o item 4.2
+```Para as aulas dos dias 27/02 e 02/03: fazer a leitura da norma NBR ISO/IEC 17799 até o item 4.2```
