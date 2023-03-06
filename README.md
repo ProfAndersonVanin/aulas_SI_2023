@@ -29,3 +29,6 @@ QUESTÕES BASEADAS NA NBR ISO/IEC 17799 - ATIVIDADE EM GRUPO.
 - Quais são as responsabilidades dos gestores de um fórum de segurança da informação?
 
 Até aqui 4.1.3
+
+# Apresentação de Seminários sobre Estudo de Caso para a implementação da norma NBR ISO/IEC 17799 em empresas reais
+- Data da apresentação: 27/03/2023
