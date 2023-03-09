@@ -31,4 +31,5 @@ QUESTÕES BASEADAS NA NBR ISO/IEC 17799 - ATIVIDADE EM GRUPO.
 Até aqui 4.1.3
 
 # Apresentação de Seminários sobre Estudo de Caso para a implementação da norma NBR ISO/IEC 17799 em empresas reais
-- Data da apresentação: 27/03/2023
+- Data da apresentação: 27/03/2023 ==> TURMA B
+- Data da apresentação: 30/03/2023 ==> TURMA A
